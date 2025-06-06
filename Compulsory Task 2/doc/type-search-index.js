@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"taskL3T08","l":"DatabaseConnection"},{"p":"taskL3T08","l":"DatabaseManager"},{"p":"taskL3T08","l":"InputHandler"},{"p":"taskL3T08","l":"MenuManager"},{"p":"taskL3T08","l":"PoisePMSManager"},{"p":"taskL3T08","l":"ProjectManager"}];updateSearchResults();
