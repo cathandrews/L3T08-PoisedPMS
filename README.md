@@ -1,11 +1,6 @@
 # L3T08-PoisedPMS
-Project management system for a small structural engineering firm called “Poised”.
 
-## Setup
-
-# PoisePMS - Project Management System
-
-PoisePMS is a Java-based application designed to manage projects and associated personnel using JDBC for database interactions. This system allows users to add, update, delete, and view project information, as well as manage people associated with these projects.
+PoisePMS is a Java-based application designed to manage projects and associated personnel for a small structural engineering firm called "Poised". This system allows users to add, update, delete, and view project information, as well as manage people associated with these projects using JDBC for database interactions.
 
 ## Features
 
@@ -85,7 +80,6 @@ CREATE TABLE StructuralEngineers (
     physical_address VARCHAR(255)
 );
 
-
 3. **Configuration**:
    - Update the database connection details in the `DatabaseConnection` class.
 
@@ -96,4 +90,3 @@ CREATE TABLE StructuralEngineers (
 ```bash
 javac -cp "mysql-connector-java-9.3.0.jar;C:\Program Files\java\jdk-21\lib\*" taskL3T08\*.java
 java -cp "mysql-connector-java-9.3.0.jar;C:\Program Files\java\jdk-21\lib\*" taskL3T08.PoisePMSManager
-
