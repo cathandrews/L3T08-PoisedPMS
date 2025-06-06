@@ -79,6 +79,7 @@ CREATE TABLE StructuralEngineers (
     email_address VARCHAR(255),
     physical_address VARCHAR(255)
 );
+```
 
 3. **Configuration**:
    - Update the database connection details in the `DatabaseConnection` class.
